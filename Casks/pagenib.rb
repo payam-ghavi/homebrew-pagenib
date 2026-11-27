@@ -1,6 +1,6 @@
 cask "pagenib" do
-  version "0.9.17"
-  sha256 "19a543e2ba6c55fcfbeb7182b6af0bdac72f7aa5f812cca12762fe8ce3965e90"
+  version "0.9.18"
+  sha256 "95d9fbcd16a746a7be1de0a5eaab96552ff86be67400d45fc330785eeb4298d8"
 
   url "https://github.com/payam-ghavi/pagenib-releases/releases/download/v#{version}/Pagenib-#{version}-mac.dmg"
   name "Pagenib"
